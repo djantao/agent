@@ -6,38 +6,38 @@
   "availableCourses": [
     {
       "id": "1",
-      "name": "SparkSQL基础入门",
-      "description": "掌握SparkSQL的基本概念与使用方法",
+      "name": "Spark基础入门",
+      "description": "了解Spark的核心概念与生态系统，掌握基本使用方法",
       "difficulty": "初级  "
     },
     {
       "id": "2",
-      "name": "数据查询与聚合操作",
-      "description": "学习SparkSQL中的查询语句与数据聚合技巧",
+      "name": "Spark编程基础",
+      "description": "学习Spark的RDD操作和核心API，完成简单数据处理任务",
       "difficulty": "初级  "
     },
     {
       "id": "3",
-      "name": "DataFrame与RDD对比",
-      "description": "理解DataFrame与RDD的区别及应用场景",
+      "name": "Spark SQL与数据处理",
+      "description": "掌握Spark SQL进行结构化数据处理和查询",
       "difficulty": "中级  "
     },
     {
       "id": "4",
-      "name": "复杂查询与性能优化",
-      "description": "提升复杂查询能力并掌握基本性能调优技巧",
+      "name": "Spark Streaming实时处理",
+      "description": "学习Spark Streaming实现流式数据处理与分析",
       "difficulty": "中级  "
     },
     {
       "id": "5",
-      "name": "SparkSQL高级特性",
-      "description": "深入学习SparkSQL的窗口函数、UDF等高级功能",
+      "name": "Spark性能优化",
+      "description": "深入理解Spark调优策略，提升作业执行效率",
       "difficulty": "高级  "
     },
     {
       "id": "6",
-      "name": "数据仓库与ETL实践",
-      "description": "结合SparkSQL进行数据仓库构建与ETL流程设计",
+      "name": "Spark集群与部署",
+      "description": "掌握Spark在集群环境中的部署与管理",
       "difficulty": "高级"
     }
   ],
