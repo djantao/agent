@@ -1,0 +1,10 @@
+[
+  {
+    "role": "user",
+    "content": "我想学习sparksql"
+  },
+  {
+    "role": "assistant",
+    "content": "1. 课程名称：SparkSQL基础入门，简介：掌握SparkSQL的基本概念和核心功能，为后续学习打下基础，难度：初级  \n2. 课程名称：SparkSQL数据操作实践，简介：学习如何使用SparkSQL进行数据查询、过滤与聚合操作，难度：初级  \n3. 课程名称：SparkSQL性能优化技巧，简介：了解SparkSQL的执行计划与优化策略，提升查询效率，难度：中级  \n4. 课程名称：SparkSQL与Hive集成应用，简介：掌握SparkSQL与Hive的交互方式及数据迁移方法，难度：中级  \n5. 课程名称：SparkSQL高级特性解析，简介：深入理解SparkSQL的窗口函数、复杂类型处理等高级功能，难度：高级  \n6. 课程名称：SparkSQL在大数据分析中的实战应用，简介：结合真实场景，运用SparkSQL解决复杂数据分析问题，难度：高级"
+  }
+]
