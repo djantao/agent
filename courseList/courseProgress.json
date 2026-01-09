@@ -7,38 +7,49 @@
     {
       "id": "1",
       "name": "Paimon基础概念",
-      "description": "了解Paimon的核心理念与基本功能，为后续学习打下基础",
-      "difficulty": "初级  "
+      "description": "了解Paimon的基本架构与核心功能，为后续学习打下基础",
+      "difficulty": "初级  ",
+      "modules": []
     },
     {
       "id": "2",
-      "name": "Paimon数据存储原理",
-      "description": "掌握Paimon的数据存储结构与优化策略，提升数据处理能力",
-      "difficulty": "初级  "
+      "name": "Paimon安装与配置",
+      "description": "掌握Paimon的安装方法和环境配置，确保运行环境正确搭建",
+      "difficulty": "初级  ",
+      "modules": []
     },
     {
       "id": "3",
-      "name": "Paimon查询语言入门",
-      "description": "学习Paimon的SQL语法与查询操作，实现数据读取与分析",
-      "difficulty": "中级  "
+      "name": "Paimon数据模型设计",
+      "description": "学习如何设计高效的Paimon数据模型，提升数据处理效率",
+      "difficulty": "中级  ",
+      "modules": []
     },
     {
       "id": "4",
-      "name": "Paimon性能调优",
-      "description": "深入理解Paimon的性能优化方法，提升数据处理效率",
-      "difficulty": "中级  "
+      "name": "Paimon查询优化",
+      "description": "掌握Paimon查询性能优化技巧，提升数据检索效率",
+      "difficulty": "中级  ",
+      "modules": []
     },
     {
       "id": "5",
-      "name": "Paimon集成与部署",
-      "description": "掌握Paimon在大数据平台中的集成与部署流程，实现生产环境应用",
-      "difficulty": "高级  "
+      "name": "Paimon高级特性与集成",
+      "description": "深入理解Paimon的高级功能，并实现与其他系统的集成",
+      "difficulty": "高级  ",
+      "modules": []
     },
     {
       "id": "6",
-      "name": "Paimon高级特性与扩展",
-      "description": "探索Paimon的高级功能与自定义扩展，满足复杂业务需求",
-      "difficulty": "高级"
+      "name": "Paimon实战项目开发",
+      "description": "通过实际项目巩固Paimon知识，提升综合应用能力",
+      "difficulty": "高级",
+      "modules": [
+        "高级特性",
+        "深入理解",
+        "综合应用",
+        "优化技巧"
+      ]
     }
   ],
   "coursesLearned": []
