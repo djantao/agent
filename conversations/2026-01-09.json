@@ -26,5 +26,9 @@
   {
     "role": "assistant",
     "content": "1. 课程名称：Spark基础入门，简介：了解Spark的核心概念与生态系统，掌握基本使用方法，难度：初级  \n2. 课程名称：Spark编程基础，简介：学习Spark的RDD操作和核心API，完成简单数据处理任务，难度：初级  \n3. 课程名称：Spark SQL与数据处理，简介：掌握Spark SQL进行结构化数据处理和查询，难度：中级  \n4. 课程名称：Spark Streaming实时处理，简介：学习Spark Streaming实现流式数据处理与分析，难度：中级  \n5. 课程名称：Spark性能优化，简介：深入理解Spark调优策略，提升作业执行效率，难度：高级  \n6. 课程名称：Spark集群与部署，简介：掌握Spark在集群环境中的部署与管理，难度：高级"
+  },
+  {
+    "role": "assistant",
+    "content": "1. 课程名称：Spark基础入门，简介：了解Spark的核心概念与生态系统，掌握基本使用方法，难度：初级  \n2. 课程名称：Spark编程基础，简介：学习Spark的RDD操作和核心API，完成简单数据处理任务，难度：初级  \n3. 课程名称：Spark SQL与数据处理，简介：掌握Spark SQL进行结构化数据处理和查询，难度：中级  \n4. 课程名称：Spark Streaming实时处理，简介：学习Spark Streaming实现流式数据处理与分析，难度：中级  \n5. 课程名称：Spark性能优化，简介：深入理解Spark调优策略，提升作业执行效率，难度：高级  \n6. 课程名称：Spark集群与部署，简介：掌握Spark在集群环境中的部署与管理，难度：高级"
   }
 ]
