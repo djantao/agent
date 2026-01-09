@@ -1,0 +1,45 @@
+{
+  "currentCourse": null,
+  "currentModule": null,
+  "modulesCompleted": [],
+  "learningHistory": [],
+  "availableCourses": [
+    {
+      "id": "1",
+      "name": "SparkSQL基础入门",
+      "description": "掌握SparkSQL的基本概念和核心功能，为后续学习打下基础",
+      "difficulty": "初级  "
+    },
+    {
+      "id": "2",
+      "name": "SparkSQL数据操作实践",
+      "description": "学习如何使用SparkSQL进行数据查询、过滤与聚合操作",
+      "difficulty": "初级  "
+    },
+    {
+      "id": "3",
+      "name": "SparkSQL性能优化技巧",
+      "description": "了解SparkSQL的执行计划与优化策略，提升查询效率",
+      "difficulty": "中级  "
+    },
+    {
+      "id": "4",
+      "name": "SparkSQL与Hive集成应用",
+      "description": "掌握SparkSQL与Hive的交互方式及数据迁移方法",
+      "difficulty": "中级  "
+    },
+    {
+      "id": "5",
+      "name": "SparkSQL高级特性解析",
+      "description": "深入理解SparkSQL的窗口函数、复杂类型处理等高级功能",
+      "difficulty": "高级  "
+    },
+    {
+      "id": "6",
+      "name": "SparkSQL在大数据分析中的实战应用",
+      "description": "结合真实场景，运用SparkSQL解决复杂数据分析问题",
+      "difficulty": "高级"
+    }
+  ],
+  "coursesLearned": []
+}
