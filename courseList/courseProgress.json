@@ -6,38 +6,38 @@
   "availableCourses": [
     {
       "id": "1",
-      "name": "Spark基础入门",
-      "description": "了解Spark的核心概念与生态系统，掌握基本使用方法",
+      "name": "Paimon基础概念",
+      "description": "了解Paimon的核心理念与基本功能，为后续学习打下基础",
       "difficulty": "初级  "
     },
     {
       "id": "2",
-      "name": "Spark编程基础",
-      "description": "学习Spark的RDD操作和核心API，完成简单数据处理任务",
+      "name": "Paimon数据存储原理",
+      "description": "掌握Paimon的数据存储结构与优化策略，提升数据处理能力",
       "difficulty": "初级  "
     },
     {
       "id": "3",
-      "name": "Spark SQL与数据处理",
-      "description": "掌握Spark SQL进行结构化数据处理和查询",
+      "name": "Paimon查询语言入门",
+      "description": "学习Paimon的SQL语法与查询操作，实现数据读取与分析",
       "difficulty": "中级  "
     },
     {
       "id": "4",
-      "name": "Spark Streaming实时处理",
-      "description": "学习Spark Streaming实现流式数据处理与分析",
+      "name": "Paimon性能调优",
+      "description": "深入理解Paimon的性能优化方法，提升数据处理效率",
       "difficulty": "中级  "
     },
     {
       "id": "5",
-      "name": "Spark性能优化",
-      "description": "深入理解Spark调优策略，提升作业执行效率",
+      "name": "Paimon集成与部署",
+      "description": "掌握Paimon在大数据平台中的集成与部署流程，实现生产环境应用",
       "difficulty": "高级  "
     },
     {
       "id": "6",
-      "name": "Spark集群与部署",
-      "description": "掌握Spark在集群环境中的部署与管理",
+      "name": "Paimon高级特性与扩展",
+      "description": "探索Paimon的高级功能与自定义扩展，满足复杂业务需求",
       "difficulty": "高级"
     }
   ],
